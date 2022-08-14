@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netelogy.MainKtTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-08-14T09:32:24" hostname="WIN-03OM49MU72H" time="0.045">
+  <properties/>
+  <testcase name="commissionCalcMastercardNoCommission" classname="ru.netelogy.MainKtTest" time="0.044"/>
+  <testcase name="commissionCalcMastercardPercentCommission" classname="ru.netelogy.MainKtTest" time="0.0"/>
+  <testcase name="commissionCalcVISACommission" classname="ru.netelogy.MainKtTest" time="0.0"/>
+  <testcase name="commissionCalcVISAPercentCommission" classname="ru.netelogy.MainKtTest" time="0.0"/>
+  <testcase name="commissionCalcMastercardCommission" classname="ru.netelogy.MainKtTest" time="0.001"/>
+  <testcase name="commissionCalcVKPAY" classname="ru.netelogy.MainKtTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
